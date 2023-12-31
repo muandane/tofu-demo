@@ -1,0 +1,3 @@
+src/.terraform/
+src/*.state
+src/*.foreach
